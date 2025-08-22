@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Himesh 👋  
 
-<!--
-**Himesh-Jadav/Himesh-Jadav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Final-year BCA student** passionate about learning, building, and exploring technology.  
+💻 Currently working on my **Final Year Project – LOS (Local Online Store)**.  
+🚀 Exploring **Web Development, Data Science, and Machine Learning** to sharpen my skills.  
 
-Here are some ideas to get you started:
+## 🌱 What I'm Learning  
+- Web Development: **HTML, CSS, Tailwind, React.js, Django**  
+- Data Science & ML: **Python, NumPy, Pandas, Matplotlib, scikit-learn**  
+- Core CS: **DSA & C++ for competitive coding and exam prep**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 My Goals  
+- Build real-world projects that combine **Web + ML**  
+- Crack the **DA-IICT Data Science entrance**  
+- Land a **part-time ML internship**  
+- Grow consistently while balancing **academics, coding, and passions**  
+
+## ⚡ Beyond Coding  
+- ♟️ Chess Club representative for my department  
+- 💪 Arm wrestling & fitness enthusiast  
+- 🧩 Curious learner who enjoys challenges and creativity  
