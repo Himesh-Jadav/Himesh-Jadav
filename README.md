@@ -1,21 +1,19 @@
-# Hi, I'm Himesh 👋  
+Hi, I'm Himesh
 
-🎓 **Final-year BCA student** passionate about learning, building, and exploring technology.  
-💻 Currently working on my **Final Year Project – LOS (Local Online Store)**.  
-🚀 Exploring **Web Development, Data Science, and Machine Learning** to sharpen my skills.  
+I'm currently pursuing my Master of Computer Applications (MCA) at NIT Trichy, after successfully qualifying NIMCET 2026.
 
-## 🌱 What I'm Learning  
-- Web Development: **HTML, CSS, Tailwind, React.js, Django**  
-- Data Science & ML: **Python, NumPy, Pandas, Matplotlib, scikit-learn**  
-- Core CS: **DSA & C++ for competitive coding and exam prep**  
+I'm interested in Software Development, Data Science, and Machine Learning, and I enjoy learning by building practical projects and solving challenging problems.
 
-## 🎯 My Goals  
-- Build real-world projects that combine **Web + ML**  
-- Crack the **DA-IICT Data Science entrance**  
-- Land a **part-time ML internship**  
-- Grow consistently while balancing **academics, coding, and passions**  
+Current Focus
+Web Development: HTML, CSS, Tailwind CSS, React.js, Django
+Data Science & Machine Learning: Python, NumPy, Pandas, Matplotlib, scikit-learn
+Computer Science: Data Structures & Algorithms, C++, Competitive Programming
+Building real-world projects that combine software development and machine learning
+Goals
+Strengthen my foundations in Computer Science and Machine Learning
+Build meaningful and production-oriented projects
+Gain industry experience through internships
+Continuously improve my problem-solving and development skills
+Beyond Technology
 
-## ⚡ Beyond Coding  
-- ♟️ Chess Club representative for my department  
-- 💪 Arm wrestling & fitness enthusiast  
-- 🧩 Curious learner who enjoys challenges and creativity  
+I enjoy playing chess, arm wrestling, and staying active through fitness. I also like exploring new ideas, taking on challenges, and learning consistently.
