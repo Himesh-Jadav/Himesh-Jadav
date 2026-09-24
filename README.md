@@ -99,11 +99,11 @@ I'm interested in **Software Development, Data Science, and Machine Learning**, 
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Himesh-Jadav&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himesh-Jadav&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Himesh-Jadav&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himesh-Jadav&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 ---
